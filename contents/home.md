@@ -6,12 +6,11 @@ He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS)
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: michaelcai0710@163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Applied Statistics 2026—2028.\
+B.E., Economic Statistics, 2022—2026.
 
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
-
+#### Learning Interests & Ongoing Study
+Statistical Machine Learning; Optimization Theory ad Its Application
